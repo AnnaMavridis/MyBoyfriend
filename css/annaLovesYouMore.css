@@ -1,0 +1,63 @@
+body{
+    background-color: #d1cdcd;
+    margin: 4%;
+  }
+  h1{
+      font-size: 200%;
+  }
+  header{
+      background-color: #f0e4b7;
+      text-align: center;
+    padding: 15px;
+  }
+  h1{
+      color: #493229;
+  }
+  nav{
+      font-variant: small-caps;
+      font-size: 150%;
+      font-family: Arial, "Time New Roman",serif;
+  }
+  h2{
+      color: #493229;
+      background-color: #db9f5a;
+  }
+  section{
+    width: 31%;
+    display: inline-block;
+    float: left;
+    margin-right: 2%;
+  }
+  #reasons{
+    width: 31%;
+    display: inline-block;
+    float: left;
+    margin-right: 2%;
+    font-size: 125%;
+  }
+  details{
+      font-style: italic;
+  }
+  summary{
+      font-style: normal;
+  }
+  #catLove{
+    display: block;
+    clear: both;
+  }
+  .howMuch{
+    display: block;
+    clear: both;
+  }
+  img[src*=Yes]{
+    display: block;
+    clear: both;
+    width: 30%;
+  }
+  footer{
+      background-color:#f0e4b7;
+    clear: both;
+  }
+  footer img{
+    width: 150px;
+  }
